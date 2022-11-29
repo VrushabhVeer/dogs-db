@@ -1,0 +1,54 @@
+{
+    "players": [
+        {
+            "name": "Erling Haaland",
+            "id": 1,
+            "club": "Man City"
+        },
+        {
+            "name": "Karim Benzema",
+            "id": 2,
+            "club": "Real Madrid"
+        },
+        {
+            "name": "Paul Pogba",
+            "id": 3,
+            "club": "Man United"
+        },
+        {
+            "name": "Zlatan Ibrahimović",
+            "id": 4,
+            "club": "Ac Milan"
+        },
+        {
+            "name": "Kylian Mbappe",
+            "id": 5,
+            "club": "PSG"
+        },
+        {
+            "name": "Lionel Messi",
+            "id": 6,
+            "club": "PSG"
+        },
+        {
+            "name": "Mohamed Salah",
+            "id": 7,
+            "club": "Liverpool"
+        },
+        {
+            "name": "Cristiano Ronaldo",
+            "id": 8,
+            "club": "Man United"
+        },
+        {
+            "name": "Edinson Cavani",
+            "id": 9,
+            "club": "Valencia"
+        },
+        {
+            "name": "Neymar Jr",
+            "id": 8,
+            "club": "PSG"
+        }
+    ]
+}
