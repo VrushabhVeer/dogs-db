@@ -1,54 +1,14 @@
 {
-    "players": [
+    "posts": [
         {
-            "name": "Erling Haaland",
+            "caption": "Fifa",
             "id": 1,
-            "club": "Man City"
+            "gif": "https://media.tenor.com/Yec-yMIAZaMAAAAM/photo-bg-fifa-bg-fifa.gif"
         },
         {
-            "name": "Karim Benzema",
+            "name": "twitter",
             "id": 2,
-            "club": "Real Madrid"
-        },
-        {
-            "name": "Paul Pogba",
-            "id": 3,
-            "club": "Man United"
-        },
-        {
-            "name": "Zlatan Ibrahimović",
-            "id": 4,
-            "club": "Ac Milan"
-        },
-        {
-            "name": "Kylian Mbappe",
-            "id": 5,
-            "club": "PSG"
-        },
-        {
-            "name": "Lionel Messi",
-            "id": 6,
-            "club": "PSG"
-        },
-        {
-            "name": "Mohamed Salah",
-            "id": 7,
-            "club": "Liverpool"
-        },
-        {
-            "name": "Cristiano Ronaldo",
-            "id": 8,
-            "club": "Man United"
-        },
-        {
-            "name": "Edinson Cavani",
-            "id": 9,
-            "club": "Valencia"
-        },
-        {
-            "name": "Neymar Jr",
-            "id": 8,
-            "club": "PSG"
+            "gif": "https://media.tenor.com/0Mj9VH2lEnkAAAAM/get-off-twitter-joe-biden.gif"
         }
     ]
 }
