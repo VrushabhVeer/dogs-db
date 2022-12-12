@@ -1,3 +1,46 @@
 {
-    "posts": []
+    "posts": [
+        {
+            "userName": "Casey Williams",
+            "userImage": "https://images.unsplash.com/photo-1669993427100-221137cc7513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "tweets": "steve",
+            "selectGif": "https://media0.giphy.com/media/j9mqKgQvkNOziGICfd/giphy.gif?cid=7dadcf85zwvfaip75lq78gxv7zrjke106da1fucft2pppc7r&rid=giphy.gif&ct=g",
+            "id": 1
+        },
+        {
+            "userName": "Casey Williams",
+            "userImage": "https://images.unsplash.com/photo-1669993427100-221137cc7513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "tweets": "lol",
+            "selectGif": "https://media3.giphy.com/media/3o6ozvv0zsJskzOCbu/giphy.gif?cid=7dadcf85zwvfaip75lq78gxv7zrjke106da1fucft2pppc7r&rid=giphy.gif&ct=g",
+            "id": 2
+        },
+        {
+            "userName": "Joseph Shaw",
+            "userImage": "https://images.unsplash.com/photo-1650378915828-e26d52007540?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0Mnx0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "tweets": "Love America",
+            "selectGif": "https://media3.giphy.com/media/l0HFj4LrJZBkjXvsA/giphy.gif?cid=7dadcf85i32wvvx6nojovcw99k1y06ti6b9ufjiccm9r6epq&rid=giphy.gif&ct=g",
+            "id": 3
+        },
+        {
+            "userName": "Jonas Leupe",
+            "userImage": "https://images.unsplash.com/photo-1642632095353-7d6cb18bab82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1M3x0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "tweets": "⚽Argentina",
+            "selectGif": "https://media4.giphy.com/media/11ReR8KnlOKdJm/giphy.gif?cid=7dadcf85rb5024s625si79op4s2a90wzp13efbg5o2wtgjgp&rid=giphy.gif&ct=g",
+            "id": 4
+        },
+        {
+            "userName": "Mumbai Indians",
+            "userImage": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335978.png",
+            "tweets": "🏏 dynamite",
+            "selectGif": "https://media1.giphy.com/media/rDJNJXvIQkKKiA3S6n/giphy.gif?cid=7dadcf851zroz99118tk68h9mcct2pnc3bu1j14ckhrev4ma&rid=giphy.gif&ct=g",
+            "id": 5
+        },
+        {
+            "userName": "Mumbai Indians",
+            "userImage": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335978.png",
+            "tweets": "👊 captain",
+            "selectGif": "https://media4.giphy.com/media/wpYIaHlPTEDPHpCZkT/giphy.gif?cid=7dadcf85vk32uugy27pr6xr2barn82v1ugionppvgyvedboz&rid=giphy.gif&ct=g",
+            "id": 6
+        }
+    ]
 }
