@@ -1,36 +1,32 @@
 {
-    "users": [
+    "dogs": [
         {
             "id": 1,
-            "name": "John Doe",
-            "age": 25,
+            "name": "Cherry",
+            "age": 2,
             "gender": "Male",
-            "country": "India",
-            "profession": "Student"
+            "place": "vishakhapatnam"
         },
         {
             "id": 2,
-            "name": "kylian Mbappe",
-            "age": 23,
+            "name": "Tommy",
+            "age": 3,
             "gender": "Male",
-            "country": "France",
-            "profession": "Student"
+            "place": "banglore"
         },
         {
             "id": 3,
-            "name": "Matt Murdock",
-            "age": 28,
+            "name": "bagira",
+            "age": 4,
             "gender": "Male",
-            "country": "america",
-            "profession": "Employed"
+            "place": "pune"
         },
         {
             "id": 4,
-            "name": "Jesisca Henwick",
-            "age": 26,
+            "name": "Jesi",
+            "age": 2,
             "gender": "Female",
-            "country": "Japan",
-            "profession": "Employed"
+            "place": "mumbai"
         }
     ]
 }
